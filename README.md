@@ -1,5 +1,8 @@
 # pkvue2cok_nt
 
+## All About Components
+### Creating and registering a component
+
 ```
 vue init webpack foldername
 ```
